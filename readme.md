@@ -1,6 +1,6 @@
 # Pokédex app
 
-Este é um projeto de uma Pokédex, construída usando HTML, CSS e JavaScript. O projeto consome a [PokeAPI](https://pokeapi.co/) para exibir informações sobre os pokémons. Desenvolver essa Pokédex foi uma experiência extremamente prazerosa, aprendi e me diverti ao mesmo tempo, um dos projetos mais prazerosos que tenho realizado.
+Este é um projeto de uma Pokédex, construída usando HTML, CSS e JavaScript. O projeto consome a [PokeAPI](https://pokeapi.co/) para exibir informações sobre os pokémons. Desenvolver essa Pokédex foi uma experiência extremamente prazerosa, aprendi e me diverti ao mesmo tempo, um dos projetos mais divertidos que tenho realizado.
 
 ## Funcionalidades
 
