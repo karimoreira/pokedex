@@ -27,4 +27,8 @@ O projeto é composto pelos seguintes arquivos principais:
 3. **Navegação entre Pokémons:** O projeto inclui botões para navegar para o Pokémon anterior e o próximo, atualizando a exibição automaticamente.
 
 ### Vídeo do app
-![Tela](./images/tela-pokedex.mp4)
+![Assista ao vídeo/gif da minha Pokédex](https://www.veed.io/view/3b139c54-2bbf-46bb-a5ef-1c832fe6005f)
+
+
+### Deploy
+![Brinque com a Pokédex](https://real-pokedex-fun.vercel.app/)
